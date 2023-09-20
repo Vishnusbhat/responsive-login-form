@@ -56,8 +56,7 @@ const LoginForm = () => {
                         theme="dark"  // alternative is light, which is white
                     />
                 </div>
-            </div>
-
+            </div>1
             <div className={popupStyle}>
                 <h3>Login Failed</h3>
                 <p>Username or password incorrect</p>
